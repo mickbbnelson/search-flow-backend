@@ -35,5 +35,3 @@ Order.create(order_number: 2, user_id: 2)
 Order.create(order_number: 3, user_id: 1)
 Order.create(order_number: 4, user_id: 2)
 Order.create(order_number: 5, user_id: 1)
-
-
